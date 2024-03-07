@@ -1,0 +1,6 @@
+names:
+  0: car
+nc: 1
+path: E:\Code\Code_AI\FPT\DLP\Project_YOLO\Data\data
+train: E:\Code\Code_AI\FPT\DLP\Project_YOLO\Data\data\images\train
+val: E:\Code\Code_AI\FPT\DLP\Project_YOLO\Data\data\images\val
