@@ -24,28 +24,30 @@ YOLOv8 re-implementation
 About dataset: https://www.kaggle.com/datasets/lamdo2k3/dataset-car-detection-using-yolov8/data
 ### Dataset structure
 
-    ├── data 
-        ├── images
-            ├── train
-                ├── 1111.jpg
-                ├── 2222.jpg
-            ├── val
-                ├── 1111.jpg
-                ├── 2222.jpg
-        ├── labels
-            ├── train
-                ├── 1111.txt
-                ├── 2222.txt
-            ├── val
-                ├── 1111.txt
-                ├── 2222.txt
-            ├── train.cache
-            ├── val.cache
-        ├── testing_images
-        ├── sample_submission.csv
-        ├── train_solution_bouding_boxes(1).csv
-        ├── yolo.yaml
-        
+    ├── Data 
+        ├── data 
+            ├── images
+                ├── train
+                    ├── 1111.jpg
+                    ├── 2222.jpg
+                ├── val
+                    ├── 1111.jpg
+                    ├── 2222.jpg
+            ├── labels
+                ├── train
+                    ├── 1111.txt
+                    ├── 2222.txt
+                ├── val
+                    ├── 1111.txt
+                    ├── 2222.txt
+                ├── train.cache
+                ├── val.cache
+            ├── testing_images
+            ├── training_images
+            ├── sample_submission.csv
+            ├── train_solution_bouding_boxes(1).csv
+            ├── yolo.yaml
+            
         
         
             
